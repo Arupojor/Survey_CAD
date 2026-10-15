@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Embankment",
+    "sections": 38,
+    "fill_m3": 333726.7990420597,
+    "cut_m3": 32.40594205969176,
+    "net_m3": 333694.39310000004,
+    "max_area_difference_m2": 2.842170943040401e-14,
+    "warnings": [],
+    "provisional_feature_rows": 38,
+    "packaged_executable_DWG_roundtrip": "passed"
+  },
+  {
+    "name": "Goruluda_Khal",
+    "sections": 46,
+    "fill_m3": 114.13295264558204,
+    "cut_m3": 153353.02539014557,
+    "net_m3": -153238.89243749998,
+    "max_area_difference_m2": 7.105427357601002e-15,
+    "warnings": [
+      {
+        "chainage": 2800.0,
+        "warning": "Workbook cached area 23.602000 m2; recomputed signed net -25.436700 m2 (fill minus cut). Magnitude discrepancy +1.834700 m2. Check workbook arithmetic."
+      },
+      {
+        "chainage": 4300.0,
+        "warning": "pre: repeated offset 24 m retained as a vertical segment (1.94 to 1.87 RL). Check source entry; no correction assumed."
+      },
+      {
+        "chainage": 4300.0,
+        "warning": "post: repeated offset 24 m retained as a vertical segment (1.94 to 1.87 RL). Check source entry; no correction assumed."
+      },
+      {
+        "chainage": 4500.0,
+        "warning": "pre: repeated offset 24 m retained as a vertical segment (1.74 to 1.75 RL). Check source entry; no correction assumed."
+      },
+      {
+        "chainage": 4500.0,
+        "warning": "post: repeated offset 24 m retained as a vertical segment (1.74 to 2.75 RL). Check source entry; no correction assumed."
+      },
+      {
+        "chainage": 4500.0,
+        "warning": "Profiles do not meet at a survey edge; fill/cut is bounded by that surveyed vertical edge."
+      },
+      {
+        "chainage": 5000.0,
+        "warning": "post: repeated offset 4 m retained as a vertical segment (3.02 to 3 RL). Check source entry; no correction assumed."
+      }
+    ],
+    "provisional_feature_rows": 46,
+    "packaged_executable_DWG_roundtrip": "passed"
+  },
+  {
+    "name": "Flat_example",
+    "sections": 2,
+    "fill_m3": 1750.0,
+    "cut_m3": 0.0,
+    "net_m3": 1750.0,
+    "max_area_difference_m2": 0.0,
+    "warnings": [],
+    "provisional_feature_rows": 2
+  },
+  {
+    "name": "Source_coordinates",
+    "sections": 38,
+    "fill_m3": 333726.7990420597,
+    "cut_m3": 32.40594205969176,
+    "net_m3": 333694.39310000004,
+    "max_area_difference_m2": 2.842170943040401e-14,
+    "warnings": [],
+    "provisional_feature_rows": 38
+  }
+]
