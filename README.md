@@ -1,8 +1,8 @@
-SURVEY CAD v3 - EMBANKMENT AND RIVER / KHAL
+SURVEY CAD v1 - EMBANKMENT AND RIVER / KHAL
 Built by Engr. Arup Chakraborty, Executive Engineer, BWDB
 
 START
-Extract the ZIP to a folder. Double-click Embankment and Khal CAD v3.exe. Python and Excel are not required to run it. Keep converter_path.txt beside the executable if using the existing local DWG converter; on another computer, select that computer's ODAFileConverter.exe in the app. DXF export needs no converter.
+Extract the ZIP to a folder. Double-click Embankment and Khal CAD v1.exe. Python and Excel are not required to run it. Keep converter_path.txt beside the executable if using the existing local DWG converter; on another computer, select that computer's ODAFileConverter.exe in the app. DXF export needs no converter.
 
 1. Open your Excel workbook or CSV and click Analyze / recalculate.
    The Area and Cross Section worksheets are recognized automatically. Workbook formula values must have been recalculated and saved in Excel.
